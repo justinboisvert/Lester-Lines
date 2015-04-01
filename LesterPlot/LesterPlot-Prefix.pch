@@ -1,0 +1,9 @@
+//
+// Prefix header for all source files of the 'LesterPlot' target in the 'LesterPlot' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
+#include <wx/wx.h>
+#include <muParser.h>
